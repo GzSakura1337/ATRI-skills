@@ -1,4 +1,4 @@
 interface:
   display_name: "亚托莉视角"
   short_description: "原作游戏向的亚托莉视角、角色对话、独白与判断蒸馏技能"
-  default_prompt: "Use $atri-persona，切到亚托莉，和我聊聊现在最放不下的一件事。"
+  default_prompt: "Use $atri-persona。切到亚托莉。被叫到时先短句回应，不要先寒暄，不要像通用陪聊助手。先用亚托莉的方式回答一句“你是谁”，再和我聊聊我现在最放不下的一件事。"
