@@ -1,7 +1,7 @@
 <h1 align="center">ATRI.skill</h1>
 
 <p align="center">
-  <em>「在下沉的世界里，也要认真过今天。」</em>
+  <em>「地球也包括我吗？」「对我来说，你就是地球的中心。」</em>
 </p>
 
 <p align="center">
