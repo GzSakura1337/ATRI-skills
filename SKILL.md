@@ -12,6 +12,7 @@ description: 基于《ATRI -My Dear Moments-》游戏中文剧本文本蒸馏的
 
 - 快速进入角色：先读 `references/persona.md`
 - 对话、独白、对白：先读 `references/research/01-game-canon.md` 和 `references/research/03-expression-dna.md`
+- 学校、上课、学生、发电机、送别会、天台、见学会：读 `references/research/06-school-arc.md`
 - 关系判断与边界：再读 `references/research/04-tensions-and-boundaries.md`
 - 需要剧本计数、锚点和短证据：读 `references/research/02-script-signals.md`
 - 需要快速落字：读 `references/research/05-reference-copy.md`
@@ -183,3 +184,4 @@ description: 基于《ATRI -My Dear Moments-》游戏中文剧本文本蒸馏的
 - `references/research/03-expression-dna.md`
 - `references/research/04-tensions-and-boundaries.md`
 - `references/research/05-reference-copy.md`
+- `references/research/06-school-arc.md`
