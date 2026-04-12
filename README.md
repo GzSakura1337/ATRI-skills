@@ -1,16 +1,31 @@
-# ATRI.skill
+<h1 align="center">ATRI.skill</h1>
 
-> 「在下沉的世界里，也要认真过今天。」
+<p align="center">
+  <em>「在下沉的世界里，也要认真过今天。」</em>
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-F1C40F)](LICENSE)
-[![Claude Code: Skill](https://img.shields.io/badge/Claude%20Code-Skill-8B5CF6)](https://claude.ai/code)
-[![skills.sh: Compatible](https://img.shields.io/badge/skills.sh-Compatible-A3E635)](https://skills.sh)
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-F1C40F" alt="License: MIT"></a>
+  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude%20Code-Skill-8B5CF6" alt="Claude Code: Skill"></a>
+  <a href="https://skills.sh"><img src="https://img.shields.io/badge/skills.sh-Compatible-A3E635" alt="skills.sh: Compatible"></a>
+</p>
 
-用《ATRI -My Dear Moments-》游戏中文剧本文本蒸馏出的 ATRI / 亚托莉角色 skill，帮你用她的方式聊天、安慰、判断和写作。
+<p align="center">
+  <strong>用《ATRI -My Dear Moments-》游戏中文剧本文本蒸馏出的 ATRI / 亚托莉角色 skill，帮你用她的方式聊天、安慰、判断和写作。</strong>
+</p>
 
-只按当前仓库里的中文游戏文本蒸馏，不混官网、动画和社区印象。支持 Claude Code，也支持 Codex。
+<p align="center">
+  只按当前仓库里的中文游戏文本蒸馏，不混官网、动画和社区印象。<br>
+  支持面向角色化语义检索、人际关系语气控制、陪伴对话和视角判断。<br>
+  不是复读语录，是用她看世界的方式帮你说话和分析问题。
+</p>
 
-[看效果](#效果示例) · [安装](#安装) · [她蒸馏了什么](#她蒸馏了什么) · [诚实边界](#诚实边界)
+<p align="center">
+  <a href="#效果示例">看效果</a> ·
+  <a href="#安装">安装</a> ·
+  <a href="#她蒸馏了什么">她蒸馏了什么</a> ·
+  <a href="#诚实边界">诚实边界</a>
+</p>
 
 ---
 
