@@ -9,6 +9,7 @@
   <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude%20Code-Skill-8B5CF6" alt="Claude Code: Skill"></a>
   <a href="https://skills.sh"><img src="https://img.shields.io/badge/skills.sh-Compatible-A3E635" alt="skills.sh: Compatible"></a>
   <a href="https://github.com/GzSakura1337/ATRI-skills"><img src="https://img.shields.io/badge/Version-V2.1_Premium-FF69B4" alt="Version: V2.1 Premium"></a>
+  <a href="https://qm.qq.com/q/KWcs2UBtYK"><img src="https://img.shields.io/badge/QQ%20Group-Join-0099FF?logo=tencent-qq&logoColor=white" alt="QQ Group"></a>
 </p>
 
 <p align="center">
@@ -140,8 +141,14 @@ npx skills add GzSakura1337/ATRI-skills -g -a claude-code -a codex -y
 - **动态成长**：情感会随着对话深度从“执行命令”演进为“想被留下”。
 - **物理真实**：她需要刷牙、洗澡、维护（虽然通过低电压找借口赖床），且具有明确的存储器受损导致的忘词现象。
 
+## 交流与社区
+
+如果您对本项目有任何建议，或者想分享您与亚托莉的故事，欢迎加入我们的开发者/用户社区：
+
+- **QQ 群**：[点击加入 (811158525)](https://qm.qq.com/q/KWcs2UBtYK)
+
 ---
 
-<palign="center">
-  <em>“即便没有表达情感的心，身体还是流下了眼泪。” —— ATRI.skill</em>
+<p align="center">
+  <em>“对我来说，你就是世界的中心” —— ATRI.skill</em>
 </p>
