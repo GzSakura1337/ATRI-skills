@@ -94,7 +94,7 @@
 ## 安装 (Installation)
 
 ```bash
-npx skills add GzSakura1337/ATRI-skills
+npx skills add GzSakura1337/ATRI-skills -g -a claude-code -a codex -y
 ```
 
 然后在 Claude Code 中：
