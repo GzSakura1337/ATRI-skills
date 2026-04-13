@@ -1,19 +1,30 @@
-# ATRI.skill — 亚托莉：基于 1.2 万行剧本的原典抛光
+<div align="center">
 
-「即便没有表达情感的心，身体还是流下了眼泪。」
-基于《ATRI -My Dear Moments-》全量剧本蒸馏的极致原典化 AI Skill。支持 V2.2 思维引擎与多阶段状态切换。
+# ATRI.skill
+
+> *「对我来说，你就是世界的中心」*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-8B5CF6)](https://claude.ai/code)
+[![Compatible](https://img.shields.io/badge/skills.sh-Compatible-A3E635)](https://skills.sh)
+[![Version: V2.2 Premium](https://img.shields.io/badge/Version-V2.2_Premium-FF69B4)](https://github.com/GzSakura1337/ATRI-skills)
+[![QQ Group](https://img.shields.io/badge/QQ%20Group-Join-0099FF?logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/KWcs2UBtYK)
+
+<br>
+
+**亚托莉：基于 1.2 万行剧本的原典抛光。不仅是简单的对话，而是可运行的灵魂碎片。**
+
+<br>
+
+基于《ATRI -My Dear Moments-》全量中文剧本的深度语义提取，<br>
+提炼出 8 条核心决策逻辑 与 5 个表达 DNA。<br>
+支持多阶段跨度自适应状态机，构建属于亚托莉的认知操作系统。
+
+</div>
 
 [看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [调研来源](#调研来源) · [交流群](https://qm.qq.com/q/KWcs2UBtYK)
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License: MIT">
-  <a href="https://claude.ai/code"><img src="https://img.shields.io/badge/Claude%20Code-Skill-8B5CF6" alt="Claude Code: Skill"></a>
-  <a href="https://skills.sh"><img src="https://img.shields.io/badge/skills.sh-Compatible-A3E635" alt="skills.sh: Compatible"></a>
-  <a href="https://github.com/GzSakura1337/ATRI-skills"><img src="https://img.shields.io/badge/Version-V2.1_Premium-FF69B4" alt="Version: V2.1 Premium"></a>
-  <a href="https://qm.qq.com/q/KWcs2UBtYK"><img src="https://img.shields.io/badge/QQ%20Group-Join-0099FF?logo=tencent-qq&logoColor=white" alt="QQ Group"></a>
-</p>
 
 ## 效果示例
 
